@@ -6,4 +6,4 @@ This project is to build a professional event management system with object-orie
 
 In registration : Admin initial username "A" + any 2 integer, initial password "admin123"
 
-Admin need to preset venue at the first at Venue Menu Module
+Admin need to preset venue first at Venue Menu Module
